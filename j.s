@@ -1,4 +1,3 @@
-# slicing
 vvcbxcb
 zcxbv
 cczcvz

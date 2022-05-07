@@ -1,3 +1,4 @@
 string = "jyothi"
 a = string[1]
-print(a)
+l_a = len(a)
+print(l_a)
